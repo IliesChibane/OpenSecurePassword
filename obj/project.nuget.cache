@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Yioq0wyFMacu8YE/VZWADgbgF3bh+cfrIT/e978s6TG3I+vpWBzOcM0PPcdW9Q4msVlnWb2PfWuwputIQKD7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\РА\\Documents\\programme\\C#\\PasswordManagerDesktopApp\\PasswordManagerDesktopApp\\OpenSecurePassword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\РА\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\microsoft.data.sqlite\\5.0.10\\microsoft.data.sqlite.5.0.10.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.10\\microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115\\stub.system.data.sqlite.core.netstandard.1.0.115.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\system.data.sqlite.core\\1.0.115\\system.data.sqlite.core.1.0.115.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\РА\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
